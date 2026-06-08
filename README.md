@@ -17,6 +17,8 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/sandstreamdev/react-swipeable-list)
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 
+Created by https://sanddev.com/
+
 ## React Swipeable List component
 
 A control to render list with swipeable items. Items can have action on left and right swipe. Swipe action triggering can be configured.
